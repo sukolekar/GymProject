@@ -1,0 +1,39 @@
+body{
+    
+    background:url("../images/gymGuy.jpeg")
+        no-repeat center center fixed;
+        background-size:cover;   
+      
+}
+
+div{
+    background-color:#9FFF05;
+    width:50%;
+    margin:110px auto;
+    text-align:center;
+    border-radius:25px;
+    
+    opacity:0.7;
+}
+button{
+    
+    background-color:#000000;
+    padding:9px;
+    color:white;
+    border-radius:20px;
+    font-size:1em;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+font-family: 'Francois One', sans-serif;
+font-family: 'Coustard', serif;
+font-family: 'Anton', sans-serif;
+    font-size:2em;
+}
+p{
+    font-family: 'Lobster', cursive;
+font-family: 'Francois One', sans-serif;
+font-family: 'Coustard', serif;
+    font-size:1.3em;
+}
